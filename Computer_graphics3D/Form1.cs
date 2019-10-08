@@ -300,9 +300,9 @@ namespace GrzegorzJarząbek_Grafika2
             double cos =
                 (vectorL.x * vectorN.x + vectorL.y * vectorN.y + vectorL.z * vectorN.z) /(VectorLength(vectorL)*VectorLength(vectorN));
 
-            int Ia = 160; //source light
-            int Ip = 85;  //ambient light
-            double I; //light intensity
+            int Ia = 160; //światło otoczenia
+            int Ip = 85;  //źródło światła
+            double I; //intensywność światła padającego na bryłę
 
             I = Ia + Ip * Math.Abs(cos);
 

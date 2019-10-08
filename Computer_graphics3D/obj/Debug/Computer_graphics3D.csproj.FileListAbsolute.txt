@@ -1,0 +1,12 @@
+C:\Users\grzep\source\repos\Computer_graphics3D\Computer_graphics3D\bin\Debug\GrzegorzJarząbek_Grafika2.exe.config
+C:\Users\grzep\source\repos\Computer_graphics3D\Computer_graphics3D\bin\Debug\GrzegorzJarząbek_Grafika2.exe
+C:\Users\grzep\source\repos\Computer_graphics3D\Computer_graphics3D\bin\Debug\GrzegorzJarząbek_Grafika2.pdb
+C:\Users\grzep\source\repos\Computer_graphics3D\Computer_graphics3D\bin\Debug\WindowsBase.dll
+C:\Users\grzep\source\repos\Computer_graphics3D\Computer_graphics3D\obj\Debug\Computer_graphics3D.csprojAssemblyReference.cache
+C:\Users\grzep\source\repos\Computer_graphics3D\Computer_graphics3D\obj\Debug\GrzegorzJarząbek_Grafika2.Form1.resources
+C:\Users\grzep\source\repos\Computer_graphics3D\Computer_graphics3D\obj\Debug\GrzegorzJarząbek_Grafika2.Properties.Resources.resources
+C:\Users\grzep\source\repos\Computer_graphics3D\Computer_graphics3D\obj\Debug\Computer_graphics3D.csproj.GenerateResource.cache
+C:\Users\grzep\source\repos\Computer_graphics3D\Computer_graphics3D\obj\Debug\Computer_graphics3D.csproj.CoreCompileInputs.cache
+C:\Users\grzep\source\repos\Computer_graphics3D\Computer_graphics3D\obj\Debug\Computer_graphics3D.csproj.CopyComplete
+C:\Users\grzep\source\repos\Computer_graphics3D\Computer_graphics3D\obj\Debug\GrzegorzJarząbek_Grafika2.exe
+C:\Users\grzep\source\repos\Computer_graphics3D\Computer_graphics3D\obj\Debug\GrzegorzJarząbek_Grafika2.pdb
